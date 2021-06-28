@@ -1,0 +1,6 @@
+José;26
+Mateus;18
+Sérgio;42
+Mônica;41
+Davi;15
+Isabele;8

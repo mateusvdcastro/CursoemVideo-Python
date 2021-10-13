@@ -30,7 +30,7 @@ def título(msg, cor=0):
 # Programa Principal
 comando = ''
 while True:
-    título('SISTEMAA DE AJUDA PyHELP', 2)
+    título('SISTEMA DE AJUDA PyHELP', 2)
     comando = str(input('Função ou Biblioteca > '))
     if comando.upper() == 'FIM':
         break
